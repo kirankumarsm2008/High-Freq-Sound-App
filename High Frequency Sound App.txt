@@ -1,0 +1,6 @@
+Administrator:
+
+1) I want my users to login and use my app.
+2) I want my users to use my app while in an emergency by pressing a button.
+3) I will include  high frequency sounds in that button that animals can't hear.
+4) So, My users can escape from the animal bite.
